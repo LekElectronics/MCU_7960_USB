@@ -34,3 +34,6 @@ Under a linux environment, run build.sh
 2. Edit code using VSCode (with "vscode-for-stm32 extension)
 3. Build/debug using the buttons available in VS Code vs-code-for-stm32 extension.
 
+## Additional Firmware Documentation
+
+https://lekelectronics.com/datasheets/KS030_Firmware/html/index.html
